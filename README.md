@@ -18,4 +18,4 @@ Which is the best model to predict the level of Violent Crime in USA Communities
 4.6 Neural Networks - 2 hidden layers, x2 hidden nodes (RMSE: 0.1602095580138513)<br />
 
 ### Build ensemble model
-5.1 GradientBoostingRegressor, (RMSE: 0.4037869618567291)<br />
+5.1 GradientBoostingRegressor, (RMSE: 0.17740186178940495)<br />
