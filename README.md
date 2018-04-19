@@ -20,3 +20,4 @@ Determine which model has the best prediction on the level of Violent Crime in U
 ### Build Ensemble Model
 > GradientBoostingRegressor, (RMSE: 0.17740186178940495)<br />
 > Ensemble of 3 NN Models (4.4, 4.5, 4.6) (RMSE: 0.1602095580138513)<br />
+> Ensemble of all Models (4.1 to 4.6) (RMSE: 0.1602095580138513)<br />
